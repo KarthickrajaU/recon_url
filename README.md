@@ -5,10 +5,10 @@ This is based on waybackurls and some scripts and it's currently under developme
 
 Usage
 
-1.download the code via gitclone 
-2.give permission to executable in linux
+1. download the code via gitclone 
+2. give permission to executable in linux
   chmod +x auto.sh
-3.then execute ~./auto.sh
+3. then execute ~./auto.sh
 
 
 
