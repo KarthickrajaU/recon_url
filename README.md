@@ -5,10 +5,10 @@ This is based on waybackurls and some scripts and it's currently under developme
 
 ## Usage
 
-1. download the code via gitclone 
+1. download the code via `gitclone https://github.com/KarthickrajaU/recon_url.git`
 2. give permission to executable in linux
-  chmod +x auto.sh
-3. then execute ~./auto.sh
+  `chmod +x auto.sh`
+3. then execute ~`./auto.sh`
 
 
 
@@ -19,7 +19,7 @@ This is based on waybackurls and some scripts and it's currently under developme
 ## Note:
   You must manually added directory traversal payload list to do the recon process.
   I highly recommended use the seclist  wordlist on 
-  ~ gitclone https://github.com/danielmiessler/SecLists.git
+  ~ `gitclone https://github.com/danielmiessler/SecLists.git`
   
  
   You need waybackurls writtenby tomnomnom
