@@ -20,6 +20,8 @@ Note:
   You must manually added directory traversal payload list to do the recon process.
   I highly recommended use the seclist  wordlist on 
   ~ gitclone https://github.com/danielmiessler/SecLists.git
+  
+ 
   You need waybackurls writtenby tomnomnom
   You can also check that on
   https://github.com/tomnomnom/waybackurls
