@@ -1,4 +1,4 @@
-# recon_url
+# Recon_url
 recon_url is reconnaissance tool that fetch website urls and check the source code automatically without any interaction of the user and notify if the code has any error.This tool targets any website,api.
 
 This is based on waybackurls and some scripts and it's currently under development
