@@ -13,7 +13,7 @@ This is based on waybackurls and some scripts and it's currently under developme
 
 
 ## Why this tool?
-   Well,this is tool is save your time to get websites all url and check whether the url is live or not (2xx,3xx,4xx) and finally do directory traversal attack and notify somehow the source leak any sensitive componsent.
+   Well,this tool is save your time to get websites all url and check whether the url is live or not (2xx,3xx,4xx) and finally do directory traversal attack and notify somehow the source leak any sensitive componsent.
     
     
 ## Note:
