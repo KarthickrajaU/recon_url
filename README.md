@@ -1,13 +1,16 @@
 # Recon_url
-recon_url is reconnaissance tool that fetch website urls and check the source code automatically without any interaction of the user and notify if the code has any error.This tool targets any website,api.
+recon_url is reconnaissance tool that fetch website urls and check the source code automatically without any interaction of the user and notify if the code has any error.This tool can targets any website,api.
 
 This is based on waybackurls and some scripts and it's currently under development
 
 ## Usage
 
-1. download the code via `gitclone https://github.com/KarthickrajaU/recon_url.git`
+1. download the code via   
+  `gitclone https://github.com/KarthickrajaU/recon_url.git`
+
 2. give permission to executable in linux
   `chmod +x auto.sh`
+  
 3. then execute ~`./auto.sh`
 
 
